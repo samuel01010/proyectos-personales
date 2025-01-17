@@ -1,1 +1,0 @@
-const words = ('leon','hormiga' , 'halcon','ballena','cocodrilo')
