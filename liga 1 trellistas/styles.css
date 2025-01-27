@@ -1,0 +1,43 @@
+h1 {
+  background-color: red;
+  color: white;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+  
+h1{
+  text-align: center;
+}
+
+nav ul{
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  list-style: none;
+  }
+  
+  nav li{
+  display: inline-flex;
+  }
+  
+  nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+  }
+  
+  nav li:hover{
+  background-color: red;
+  }
+
+  ol{
+    text-align: center;
+  }
+
+  
+  
